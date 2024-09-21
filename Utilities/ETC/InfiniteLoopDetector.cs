@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Runtime.CompilerServices;
 using UnityEditor;
 
-namespace UnityModulpts.Utilities.Useful_Utilities
+namespace UnityModularScripts.Utilities.ETC
 {
     public static class InfiniteLoopDetector
     {

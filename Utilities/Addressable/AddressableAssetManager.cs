@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 
-namespace UnityModularScripts.Utilities.Addressable_Utility
+namespace UnityModularScripts.Utilities.Addressable
 {
     /// <summary>
     /// Addressable 자산을 로드하고 관리하는 유틸리티 클래스입니다.

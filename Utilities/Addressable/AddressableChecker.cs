@@ -3,7 +3,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace UnityModularScripts.Utilities.Addressable_Utility
+namespace UnityModularScripts.Utilities.Addressable
 {
     [InitializeOnLoad]
     public static class AddressablesChecker
